@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+.idea/
+dist
+dts
+test/
+tsconfig.json
+package.json
+package-lock.json
+ts-lint.json
+lib-d.ts
